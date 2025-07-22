@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sam!
+# 👋 Hi, I'm Kannadoss!
 
 I'm a Data Science enthusiast skilled in Python, SQL, and Machine Learning. I love finding stories in data and building projects that solve real problems.
 
