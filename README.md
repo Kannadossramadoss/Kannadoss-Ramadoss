@@ -24,4 +24,4 @@ I'm a Data Science enthusiast skilled in Python, SQL, and Machine Learning. I lo
 - [EDA tips every beginner should know](#)
 
 ## 📫 Let's Connect
-- [LinkedIn](#https://www.linkedin.com/in/kannadoss-ramadoss/) | [Email Me](mailto:kannadossramadoss@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kannadoss-ramadoss/) | [Email Me](mailto:kannadossramadoss@gmail.com)
