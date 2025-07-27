@@ -15,8 +15,7 @@ I'm a Data Science enthusiast skilled in Python, SQL, and Machine Learning. I lo
 - [🔗 GitHub Repo](https://github.com/Kannadossramadoss/Life_After_Graduation_EDA)
 
 ## 📝 Blog Posts
-- [How I built a COVID Dashboard in Python](#)
-- [EDA tips every beginner should know](#)
+- [How I built a Life After Graduation - EDA Project](https://medium.com/@kannadossramadoss/title-life-after-graduation-a-deep-dive-into-college-outcomes-using-python-eda-d517780bef96)
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/kannadoss-ramadoss/) | [Email Me](mailto:kannadossramadoss@gmail.com)
