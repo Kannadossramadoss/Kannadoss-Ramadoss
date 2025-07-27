@@ -9,15 +9,10 @@ I'm a Data Science enthusiast skilled in Python, SQL, and Machine Learning. I lo
 
 ## 📂 Featured Projects
 
-### 🏠 House Price Prediction
-- **Description**: Used regression models to predict housing prices based on location and size.
+### 🎓 Life After Graduation – EDA Project
+- **Description**: This project explores post-graduation outcomes such as earnings, employment rate, and student debt across different majors and degree levels using **exploratory data analysis (EDA)** and **visualizations**.
 - **Skills Used**: Pandas, Linear Regression, scikit-learn, Matplotlib
-- [🔗 GitHub Repo](https://github.com/datasam/house-price-prediction)
-
-### 📊 Zomato EDA
-- **Description**: Exploratory data analysis of restaurants in major Indian cities.
-- **Skills Used**: Pandas, Seaborn, Data Cleaning, Geo Analysis
-- [🔗 GitHub Repo](https://github.com/datasam/zomato-eda)
+- [🔗 GitHub Repo](https://github.com/Kannadossramadoss/Life_After_Graduation_EDA)
 
 ## 📝 Blog Posts
 - [How I built a COVID Dashboard in Python](#)
